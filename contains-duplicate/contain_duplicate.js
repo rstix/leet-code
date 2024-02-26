@@ -5,7 +5,7 @@
 
 // 2 loops
 var containsDuplicate = function(nums) {
-    const len = nums.length;
+	const len = nums.length;
 	let res = false;
 	for(let i = 0; i < len - 1; i++){
 		for(let j = i + 1; j < len; j++){
@@ -21,7 +21,7 @@ var containsDuplicate = function(nums) {
 
 // sorting and comparing neighbours
 var containsDuplicate = function(nums) {
-    nums.sort();
+	nums.sort();
 	const len = nums.length;
 	let res = false;
 	for(let i = 0; i < len - 1; i++){
