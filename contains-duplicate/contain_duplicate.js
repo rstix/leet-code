@@ -2,34 +2,38 @@
  * @param {number[]} nums
  * @return {boolean}
  */
-// var containsDuplicate = function(nums) {
-//     const len = nums.length;
-// 	let res = false;
-// 	for(let i = 0; i < len - 1; i++){
-// 		for(let j = i + 1; j < len; j++){
-// 			if(nums[i] == nums[j]){
-// 				res = true;
-// 				break;
-// 			} 	
-// 		}
-// 		if(res) break;
-// 	}
-// 	return res;
-// };
 
-// var containsDuplicate = function(nums) {
-//     nums.sort();
-// 	const len = nums.length;
-// 	let res = false;
-// 	for(let i = 0; i < len - 1; i++){
-// 		if(nums[i] === nums[i+1]){
-// 			res = true;
-// 			break;
-// 		}
-// 	}
-// 	return res;
-// };
+// 2 loops
+var containsDuplicate = function(nums) {
+    const len = nums.length;
+	let res = false;
+	for(let i = 0; i < len - 1; i++){
+		for(let j = i + 1; j < len; j++){
+			if(nums[i] == nums[j]){
+				res = true;
+				break;
+			} 	
+		}
+		if(res) break;
+	}
+	return res;
+};
 
+// sorting and comparing neighbours
+var containsDuplicate = function(nums) {
+    nums.sort();
+	const len = nums.length;
+	let res = false;
+	for(let i = 0; i < len - 1; i++){
+		if(nums[i] === nums[i+1]){
+			res = true;
+			break;
+		}
+	}
+	return res;
+};
+
+// using Set, cause it only stores unique values
 var containsDuplicate = function(nums) {
 	let mySet = new Set(nums)
 	return mySet.size != nums.length;
