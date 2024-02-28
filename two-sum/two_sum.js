@@ -44,7 +44,26 @@ var twoSum = function(nums, target) {
 	return [i, indexFind].sort();
 };
 
+// using HashMap
+// time: O(n)
+// space: O(n)
+var twoSum = function(nums, target) {
+	const numsMap = new Map();
+	const len = nums.length;
+	let isInMap;
+	let i
+
+	for (i = 0; i < len; i++) {
+		isInMap = numsMap.get(target - nums[i])
+		if(isInMap != undefined) break;
+		numsMap.set(nums[i], i);
+	}
+	return [isInMap, i]
+};
+
 const nums = [3,2,3];
 const target = 6;
 
-console.log(twoSum([3,2,4], 6));
+console.log(twoSum([3,3], 6));
+
+// e + x == target
