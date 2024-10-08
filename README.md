@@ -4,7 +4,7 @@
 
 | Status | Problem                      | Difficulty |
 | ------ | ---------------------------- | ---------- |
-| [x]    | Contains Duplicate           | easy       |
+| - [x]  | Contains Duplicate           | easy       |
 | [x]    | Valid Anagram                | easy       |
 | [x]    | Two Sum                      | easy       |
 | [x]    | Group Anagrams               | medium     |
