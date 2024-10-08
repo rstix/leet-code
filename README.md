@@ -4,7 +4,7 @@
 
 | Status                   | Problem                      | Difficulty |
 | ------------------------ | ---------------------------- | ---------- |
-| \u2705                   | Contains Duplicate           | easy       |
+| :white_check_mark:       | Contains Duplicate           | easy       |
 | <ul><li>- [x] </li></ul> | Valid Anagram                | easy       |
 | <ul><li>- [x] </li></ul> | Two Sum                      | easy       |
 | <ul><li>- [x] </li></ul> | Group Anagrams               | medium     |
@@ -18,7 +18,7 @@
 | ------------------------ | ------------------------- | ---------- |
 | <ul><li>- [x] </li></ul> | Valid Palindrome          | easy       |
 | <ul><li>- [ ] </li></ul> | 3Sum                      | medium     |
-| \u274c                   | Container With Most Water | medium     |
+| :x:                      | Container With Most Water | medium     |
 
 ### Stack
 
