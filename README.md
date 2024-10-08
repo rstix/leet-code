@@ -5,12 +5,12 @@
 | Status | Problem                      | Difficulty |
 | ------ | ---------------------------- | ---------- |
 | - [x]  | Contains Duplicate           | easy       |
-| [x]    | Valid Anagram                | easy       |
-| [x]    | Two Sum                      | easy       |
-| [x]    | Group Anagrams               | medium     |
-| [x]    | Top K Frequent Elements      | medium     |
-| [x]    | Product of Array Except Self | medium     |
-| [x]    | Longest Consecutive Sequence | medium     |
+| - [x]  | Valid Anagram                | easy       |
+| - [x]  | Two Sum                      | easy       |
+| - [x]  | Group Anagrams               | medium     |
+| - [x]  | Top K Frequent Elements      | medium     |
+| - [x]  | Product of Array Except Self | medium     |
+| - [x]  | Longest Consecutive Sequence | medium     |
 
 ### Two Pointers
 
