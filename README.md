@@ -18,7 +18,7 @@
 | ------------------------ | ------------------------- | ---------- |
 | <ul><li>- [x] </li></ul> | Valid Palindrome          | easy       |
 | <ul><li>- [ ] </li></ul> | 3Sum                      | medium     |
-| <ul><li>- [ ] </li></ul> | Container With Most Water | medium     |
+| \u274c                   | Container With Most Water | medium     |
 
 ### Stack
 
