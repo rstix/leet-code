@@ -4,7 +4,7 @@
 
 | Status                   | Problem                      | Difficulty |
 | ------------------------ | ---------------------------- | ---------- |
-| <ul><li>- [x] </li></ul> | Contains Duplicate           | easy       |
+| \u2705                   | Contains Duplicate           | easy       |
 | <ul><li>- [x] </li></ul> | Valid Anagram                | easy       |
 | <ul><li>- [x] </li></ul> | Two Sum                      | easy       |
 | <ul><li>- [x] </li></ul> | Group Anagrams               | medium     |
