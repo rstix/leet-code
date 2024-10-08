@@ -2,26 +2,26 @@
 
 ### Arrays and Hashing
 
-| Status                   | Problem                      | Difficulty |
-| ------------------------ | ---------------------------- | ---------- |
-| :white_check_mark:       | Contains Duplicate           | easy       |
-| <ul><li>- [x] </li></ul> | Valid Anagram                | easy       |
-| <ul><li>- [x] </li></ul> | Two Sum                      | easy       |
-| <ul><li>- [x] </li></ul> | Group Anagrams               | medium     |
-| <ul><li>- [x] </li></ul> | Top K Frequent Elements      | medium     |
-| <ul><li>- [x] </li></ul> | Product of Array Except Self | medium     |
-| <ul><li>- [x] </li></ul> | Longest Consecutive Sequence | medium     |
+|       Status       | Problem                      | Difficulty |
+| :----------------: | ---------------------------- | ---------- |
+| :white_check_mark: | Contains Duplicate           | easy       |
+| :white_check_mark: | Valid Anagram                | easy       |
+| :white_check_mark: | Two Sum                      | easy       |
+| :white_check_mark: | Group Anagrams               | medium     |
+| :white_check_mark: | Top K Frequent Elements      | medium     |
+| :white_check_mark: | Product of Array Except Self | medium     |
+| :white_check_mark: | Longest Consecutive Sequence | medium     |
 
 ### Two Pointers
 
-| Status                   | Problem                   | Difficulty |
-| ------------------------ | ------------------------- | ---------- |
-| <ul><li>- [x] </li></ul> | Valid Palindrome          | easy       |
-| <ul><li>- [ ] </li></ul> | 3Sum                      | medium     |
-| :x:                      | Container With Most Water | medium     |
+|       Status       | Problem                   | Difficulty |
+| :----------------: | ------------------------- | ---------- |
+| :white_check_mark: | Valid Palindrome          | easy       |
+|        :x:         | 3Sum                      | medium     |
+|        :x:         | Container With Most Water | medium     |
 
 ### Stack
 
-| Status                   | Problem           | Difficulty |
-| ------------------------ | ----------------- | ---------- |
-| <ul><li>- [x] </li></ul> | Valid Parentheses | easy       |
+|       Status       | Problem           | Difficulty |
+| :----------------: | ----------------- | ---------- |
+| :white_check_mark: | Valid Parentheses | easy       |
