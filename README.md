@@ -25,3 +25,9 @@
 |       Status       | Problem           | Difficulty |
 | :----------------: | ----------------- | ---------- |
 | :white_check_mark: | Valid Parentheses | easy       |
+
+### Others
+
+|       Status       | Problem                     | Difficulty |
+| :----------------: | --------------------------- | ---------- |
+| :white_check_mark: | Flatten Deeply Nested Array | medium     |
