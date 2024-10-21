@@ -26,6 +26,12 @@
 | :----------------: | ----------------- | ---------- |
 | :white_check_mark: | Valid Parentheses | easy       |
 
+### Sliding Window
+
+|       Status       | Problem                         | Difficulty |
+| :----------------: | ------------------------------- | ---------- |
+| :white_check_mark: | Best Time to Buy And Sell Stock | easy       |
+
 ### Others
 
 |       Status       | Problem                     | Difficulty |
