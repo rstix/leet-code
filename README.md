@@ -28,9 +28,10 @@
 
 ### Sliding Window
 
-|       Status       | Problem                         | Difficulty |
-| :----------------: | ------------------------------- | ---------- |
-| :white_check_mark: | Best Time to Buy And Sell Stock | easy       |
+|       Status       | Problem                                        | Difficulty |
+| :----------------: | ---------------------------------------------- | ---------- |
+| :white_check_mark: | Best Time to Buy And Sell Stock                | easy       |
+| :white_check_mark: | Longest Substring Without Repeating Characters | medium     |
 
 ### Others
 
