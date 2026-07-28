@@ -33,6 +33,12 @@
 | :white_check_mark: | Best Time to Buy And Sell Stock                | easy       |
 | :white_check_mark: | Longest Substring Without Repeating Characters | medium     |
 
+### Trees
+
+|       Status       | Problem   | Difficulty |
+| :----------------: | --------- | ---------- |
+| :white_check_mark: | Same Tree | easy       |
+
 ### Others
 
 |       Status       | Problem                     | Difficulty |
