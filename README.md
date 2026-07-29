@@ -35,9 +35,10 @@
 
 ### Trees
 
-|       Status       | Problem   | Difficulty |
-| :----------------: | --------- | ---------- |
-| :white_check_mark: | Same Tree | easy       |
+|       Status       | Problem        | Difficulty |
+| :----------------: | -------------- | ---------- |
+| :white_check_mark: | Same Tree      | easy       |
+|        :x:         | Symmetric Tree | easy       |
 
 ### Others
 
